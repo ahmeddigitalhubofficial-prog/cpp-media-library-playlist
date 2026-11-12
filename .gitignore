@@ -1,0 +1,11 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+bin/
+obj/
+build/
+.vscode/
+.idea/

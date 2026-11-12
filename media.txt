@@ -1,0 +1,10 @@
+SONG,1,Blinding Lights,The Weeknd,3 min 20 sec,0
+SONG,2,Shape of You,Ed Sheeran,233 sec,0
+SONG,3,Stay,The Kid LAROI,2 min 21 sec,0
+SONG,4,As It Was,Harry Styles,167 sec,0
+SONG,5,Someone Like You,Adele,4 min 45 sec,0
+MOVIE,6,Inception,Christopher Nolan,2 hr 28 min 12 sec,8.800000,0
+MOVIE,7,The Dark Knight,Christopher Nolan,2 hr 32 min,9.000000,0
+MOVIE,8,Interstellar,Christopher Nolan,2 hr 49 min 5 sec,8.700000,0
+MOVIE,9,Avatar,James Cameron,2 hr 42 sec,7.900000,0
+MOVIE,10,The Matrix,Lana Wachowski,2 hr 16 min,8.700000,0
